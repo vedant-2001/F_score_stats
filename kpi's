@@ -1,10 +1,3 @@
-# =============================================================================
-# Backtesting strategy - IV : combining renko with other MACD
-# Author : Mayank Rasu
-
-# Please report bug/issues in the Q&A section
-# =============================================================================
-
 import numpy as np
 import pandas as pd
 from stocktrends import Renko
