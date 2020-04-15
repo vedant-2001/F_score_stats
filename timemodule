@@ -1,9 +1,3 @@
-# =============================================================================
-# python time module
-# Author : Mayank Rasu
-
-# Please report bug/issues in the Q&A section
-# =============================================================================
 
 import time
 import numpy as np
