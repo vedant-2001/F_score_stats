@@ -1,3 +1,3 @@
 # F_score_strategy 
-Read about the details of the trading strategy and implemented the same using python.
+Implementation of the strategy using python.Webscraped data from yahoo finance using BeautifulSoup
 Backtesting-still in progress.
