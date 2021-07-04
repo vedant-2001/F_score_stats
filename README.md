@@ -1,3 +1,3 @@
 # F_score_strategy 
-Implementation of the strategy using python.Webscraped data from yahoo finance using BeautifulSoup.
+Implementation of the F-score strategy using Python.Data was webscraped from Yahoo finance using BeautifulSoup.
 Backtesting-still in progress.
